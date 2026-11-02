@@ -1,0 +1,6 @@
+.jdk/
+build/
+*.class
+.idea/
+*.iml
+shared_drops/
